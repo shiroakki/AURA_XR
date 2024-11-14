@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\adria\\Downloads\\Unreal-InteractionSDK-Sample-main\\Unreal-InteractionSDK-Sample-main\\Source\\MetaIsdkSample\\MetaIsdkSample.Build.cs",
+		"C:\\Users\\adria\\Downloads\\Unreal-InteractionSDK-Sample-main\\Unreal-InteractionSDK-Sample-main\\Plugins\\OculusInteractionSamples\\Source\\OculusInteractionSamples\\OculusInteractionSamples.Build.cs",
+		"C:\\Users\\adria\\Downloads\\Unreal-InteractionSDK-Sample-main\\Unreal-InteractionSDK-Sample-main\\Source\\MetaIsdkSample.Target.cs",
+		"C:\\Users\\adria\\Downloads\\Unreal-InteractionSDK-Sample-main\\Unreal-InteractionSDK-Sample-main\\Source\\MetaIsdkSampleEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

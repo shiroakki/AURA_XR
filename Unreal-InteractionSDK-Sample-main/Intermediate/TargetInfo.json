@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MetaIsdkSample",
+			"Path": "..\\Source\\MetaIsdkSample.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MetaIsdkSampleEditor",
+			"Path": "..\\Source\\MetaIsdkSampleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

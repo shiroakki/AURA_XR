@@ -1,8 +1,0 @@
-{
-	"BuildId": "27405482",
-	"Modules": 
-	{
-		"MRUtilityKit": "UnrealEditor-MRUtilityKit.dll",
-		"MRUtilityKitEditor": "UnrealEditor-MRUtilityKitEditor.dll"
-	}
-}
